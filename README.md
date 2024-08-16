@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrazharkhan
-- 👀 I’m interested in python
-- 🌱 I’m currently learning django, django rest-framework, Fastapi, Flask
+- 👀 I’m interested in python, Django, Rest-Framework, Flask
+- 🌱 I’m currently learning Fastapi
 - 💞️ I’m looking to collaborate on html, css, javascript, python, tailwind, boostrap, react, material ui
 - 📫 How to reach me through my email.
 - 😄 Pronouns: Gentleman
